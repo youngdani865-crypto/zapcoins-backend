@@ -1,0 +1,16 @@
+{
+  "name": "zapcoins-backend",
+  "version": "1.0.0",
+  "description": "ZapCoins Backend Server",
+  "main": "zapcoins-backend.js",
+  "scripts": {
+    "start": "node zapcoins-backend.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
